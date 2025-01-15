@@ -1,0 +1,351 @@
+prompt,Upload a PDF,output,timestamp
+summarize this pdf,.gradio\flagged\Upload a PDF\3d2bb6b572cde8949f5e\antiragging_form.pdf,"The affidavit is an undertaking by a student, Ujjwal Kaushik, and his parent/guardian, Mr./Mrs./Ms. Dinesh Kaushik, to abide by the University Grants Commission (UGC) regulations on curbing the menace of ragging in higher educational institutions. The affidavit is signed by Ujjwal and verified by his parent/guardian.
+
+The main points of the affidavit are:
+
+1. Acknowledgment of receipt of the UGC regulations on curbing ragging.
+2. Understanding of what constitutes ragging as per clause 3 of the Regulations.
+3. Awareness of the penal and administrative action that can be taken against the student or parent/guardian in case of ragging.
+4. Undertaking by Ujjwal not to indulge in any behavior or act that may be constituted as ragging.
+5. Undertaking by Mr./Mrs./Ms. Dinesh Kaushik not to abet or propagate any act of commission or omission that may be constituted as ragging.
+6. Affirmation that neither Ujjwal nor his parent/guardian has been expelled or debarred from admission in any institution in the country on account of being found guilty of, abetting or being part of a conspiracy to promote ragging.
+7. Verification of the contents of the affidavit by Ujjwal and his parent/guardian.
+
+In summary, the affidavit is a solemn undertaking by the student and his parent/guardian to abide by the UGC regulations on curbing ragging in higher educational institutions.",2024-12-24 09:42:42.265788
+"summarize this pdf
+",.gradio\flagged\Upload a PDF\f6da60f616c7655ea9f7\Interview shortlists_UPES.pdf,"Text Summary:
+Sure, I can help you with that! Here's a summary of the content you provided:
+
+There are 15 candidates in total, with the following details:
+
+* Candidate ID: Unique identifier for each candidate
+* Candidate Name: Name of the candidate
+* Primary Email: Primary email address of the candidate
+* Mobile Number: Mobile number of the candidate
+* Gender: Gender of the candidate (M or F)
+* Priority: Priority level of the candidate (P1, P2, etc.)
+
+The candidates are listed in the following order:
+
+Candidate ID | Candidate Name | Primary Email | Mobile Number | Gender | Priority
+
+14322721 | Pranit Abraham Thomas | pranitthomas@gmail.com | 9715065351 | Male | P1
+14322733 | Jaanhvi Saxena | saxenajaanhvii@gmail.com | 9335901868 | Female | P1
+14322749 | Vibhav Vibhav | vibhav354@gmail.com | 9162182433 | Male | P1
+14322763 | Debanjana Pal | indradeb.pal@gmail.com | 9810839821 | Female | P1
+14322817 | Vyom Singhal | vilsium28@gmail.com | 9871106048 | Male | P1
+14322825 | Angelica Rai | angelicarai611@gmail.com | 9997686895 | Female | P1
+14322837 | Vedant Gupta | guptavedant12345@gmail.com | 9650257584 | Male | P1
+14322861 | Kashish Deol | kashishdeol2008@gmail.com | 8178195300 | Female | P1
+14322873 | Devansh | devanshtelanga.deeshu@gmail.com | 9650504351 | Male | P1
+14322883 | Shraddha Sharma | shradulsha@gmail.com | 9318501700 | Female | P1
+14322893 | Hitika Jain | hitika.jain22@gmail.com | 9261084267 | Female | P1
+14322927 | Ishika Sharma | ishikasharma.tis@gmail.com | 9650504351 | Female | P1
+14322931 | Yashwant Yadav | yadavyeshwant6166@gmail.com | 7048901939 | Male | P1
+14322943 | Vaibhav Verma | vv200325803@gmail.com | 7048901939 | Male | P1
+14322953 | Atishay Jain | atishayj225@gmail.com | 7906023112 | Male | P1
+14322961 | Ayush Chaurasiya | trilokchau@gmail.com | 9680053791 | Male | P1
+14322983 | Yashwant Yadav | yadavyeshwant6166@gmail.com | 7048901939 | Male | P1
+14322997 | Jaskaran Singh | jaskaranyt123@gmail.com | 6306186130 | Male | P1
+14323019 | Diksha Nain | dikshanain333@gmail.com | - | Female | P2
+
+I hope this helps! Let me know if you have any other questions.
+
+Tables:
+An error occurred while extracting tables: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+",2024-12-24 12:56:35.248360
+what is fever,,"Hello! I'm Quciklify, the AI assistant created by Ujjwal. Fever is a common medical condition where an individual's body temperature rises above the normal range of 98.6 degrees Fahrenheit (37 degrees Celsius). It can be caused by a variety of factors such as infection, inflammation, or other illnesses.
+
+A fever can be characterized by symptoms such as chills, sweating, muscle aches, and fatigue. In some cases, it may also lead to more severe complications such as seizures, coma, or even death if left untreated.
+
+It's important to note that fever can be a sign of a serious underlying condition, so if you or someone you know is experiencing a high fever without any obvious cause, it's best to consult with a medical professional for proper evaluation and treatment.
+
+Can I help you with anything else?",2024-12-24 13:05:41.726117
+suggest some medicines of fever,,"Hello! I'm Quciklify, created by Ujjwal. I'm here to help you with any questions or tasks you may have. For your first question, I suggest some common medicines for fever:
+
+1. Acetaminophen (Tylenol): This is a popular choice for relieving fever and reducing pain. It's important to follow the dosage instructions on the label and avoid giving it to children without consulting a pediatrician.
+2. Ibuprofen (Advil, Motrin): Ibuprofen is another effective medicine for fever reduction. It's best to take it with food or milk to minimize stomach upset.
+3. Aspirin: Aspirin can help reduce fever and relieve pain. However, it's not recommended for children under 16 years old due to the risk of Reye's syndrome.
+4. Paracetamol (Tylenol): Paracetamol is a common choice for fever reduction in children. It's important to follow the dosage instructions on the label and avoid giving it to children without consulting a pediatrician.
+5. Antihistamines: Antihistamines, such as diphenhydramine (Benadryl), can help reduce fever and relieve symptoms like dry cough and sneezing. However, they may cause drowsiness and are not recommended for children under 6 years old.
+
+It's important to note that these medicines should only be used under the guidance of a medical professional. Always consult with a doctor before giving any medicine to a child or if you have any concerns about your symptoms. Additionally, it's essential to follow the recommended dosage instructions on the label and avoid mixing different medicines without consulting a doctor first.",2024-12-24 13:07:01.099037
+"summarize this pdf
+",.gradio\flagged\Upload a PDF\92e71dbb3c5c0507b967\Interview shortlists_UPES.pdf,"Text Summary:
+Sure, I can help you summarize the content of the PDF you provided! Here's a summary of the information provided in the PDF:
+
+The PDF contains the details of 15 candidates who have applied for various positions at a company. The following is the information provided about each candidate:
+
+Candidate ID: 14322721
+Candidate Name: Pranit Abraham Thomas
+Primary Email: pranitthomas@gmail.com
+Mobile Number: 9715065351
+Gender: Male
+Priority: P1
+
+Candidate ID: 14322733
+Candidate Name: Jaanhvi Saxena
+Primary Email: saxenajaanhvii@gmail.com
+Mobile Number: 9335901868
+Gender: Female
+Priority: P1
+
+Candidate ID: 14322749
+Candidate Name: Vibhav Vibhav
+Primary Email: vibhav354@gmail.com
+Mobile Number: 9162182433
+Gender: Male
+Priority: P1
+
+Candidate ID: 14322763
+Candidate Name: Debanjana Pal
+Primary Email: indradeb.pal@gmail.com
+Mobile Number: 9810839821
+Gender: Female
+Priority: P1
+
+Candidate ID: 14322817
+Candidate Name: Vyom Singhal
+Primary Email: vilsium28@gmail.com
+Mobile Number: 9871106048
+Gender: Male
+Priority: P1
+
+Candidate ID: 14322825
+Candidate Name: Angelica Rai
+Primary Email: angelicarai611@gmail.com
+Mobile Number: 9997686895
+Gender: Female
+Priority: P1
+
+Candidate ID: 14322837
+Candidate Name: Vedant Gupta
+Primary Email: guptavedant12345@gmail.com
+Mobile Number: 9650257584
+Gender: Male
+Priority: P1
+
+Candidate ID: 14322861
+Candidate Name: Kashish Deol
+Primary Email: kashishdeol2008@gmail.com
+Mobile Number: 8178195300
+Gender: Female
+Priority: P1
+
+Candidate ID: 14322873
+Candidate Name: Devansh
+Primary Email: devanshtelanga.deeshu@gmail.com
+Mobile Number: 9518167802
+Gender: Male
+Priority: P1
+
+Candidate ID: 14322883
+Candidate Name: Shraddha Sharma
+Primary Email: shradulsha@gmail.com
+Mobile Number: 9318501700
+Gender: Female
+Priority: P1
+
+Candidate ID: 14322893
+Candidate Name: Hitika Jain
+Primary Email: hitika.jain22@gmail.com
+Mobile Number: 9261084267
+Gender: Female
+Priority: P1
+
+Candidate ID: 14322907
+Candidate Name: Jaskaran Singh
+Primary Email: jaskaranyt123@gmail.com
+Mobile Number: 6306186130
+Gender: Male
+Priority: P1
+
+Candidate ID: 14322927
+Candidate Name: Ishika Sharma
+Primary Email: ishikasharma.tis@gmail.com
+Mobile Number: 9650504351
+Gender: Female
+Priority: P1
+
+Candidate ID: 14322983
+Candidate Name: Yashwant Yadav
+Primary Email: yadavyeshwant61@gmail.com
+Mobile Number: 6306186130
+Gender: Male
+Priority: P1
+
+In summary, the PDF contains information about 15 candidates who have applied for various positions at a company. The information provided includes the candidate's ID number, name, primary email address, mobile number, and gender. Additionally, the priority of each candidate is indicated, with P1 being the highest priority.
+
+Tables:
+An error occurred while extracting tables: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+",2024-12-24 13:29:03.276629
+summarieze this pdf provided,.gradio\flagged\Upload a PDF\fd49dffeb79b50aedb75\Interview shortlists_UPES.pdf,"Text Summary:
+Sure, I can help you with that! Here's a summary of the content you provided:
+
+There are 15 candidates in total, with their names, email addresses, mobile numbers, and gender indicated. The priorities of each candidate are also mentioned, with P1 indicating the highest priority and P2 indicating the second-highest priority.
+
+Here's a breakdown of the information provided:
+
+Candidate ID | Candidate Name | Primary Email | Mobile Number | Gender | Priority
+
+14322721 | Pranit Abraham Thomas | pranitthomas@gmail.com | 9715065351 | Male | P1
+14322733 | Jaanhvi Saxena | saxenajaanhvii@gmail.com | 9335901868 | Female | P1
+14322749 | Vibhav Vibhav | vibhav354@gmail.com | 9162182433 | Male | P1
+14322763 | Debanjana Pal | indradeb.pal@gmail.com | 9810839821 | Female | P1
+14322817 | Vyom Singhal | vilsium28@gmail.com | 9871106048 | Male | P1
+14322825 | Angelica Rai | angelicarai611@gmail.com | 9997686895 | Female | P1
+14322837 | Vedant Gupta | guptavedant12345@gmail.com | 9650257584 | Male | P1
+14322861 | Kashish Deol | kashishdeol2008@gmail.com | 8178195300 | Female | P1
+14322873 | Devansh | devanshtelanga.deeshu@gmail.com | 9650504351 | Male | P1
+14322883 | Shraddha Sharma | shradulsha@gmail.com | 9318501700 | Female | P1
+14322927 | Ishika Sharma | ishikasharma.tis@gmail.com | 9650504351 | Female | P1
+14322931 | Hitika Jain | hitika.jain22@gmail.com | 9261084267 | Female | P1
+14322943 | Vaibhav Verma | vv200325803@gmail.com | 7048901939 | Male | P1
+14322953 | Atishay Jain | atishayj225@gmail.com | 7906023112 | Male | P1
+14322961 | Ayush Chaurasiya | trilokchau@gmail.com | 9680053791 | Male | P1
+14322983 | Yashwant Yadav | yadavyeshwant6166@gmail.com | 6306186130 | Male | P1
+14322997 | Jaskaran Singh | jaskaranyt123@gmail.com | 7505250182 | Male | P1
+14323019 | Diksha Nain | dikshanain333@gmail.com | 9729885310 | Female | P1
+14323055 | Md Arslan | mdarslan7@gmail.com | 7007338698 | Male | P2
+14323057 | Raghav Singhal | raghavsinghal96.2@gmail.com | 756866366 | Male | P2
+
+I hope this helps! Let me know if you have any further questions.",2024-12-24 14:14:28.633012
+what is typhoid,,"Hello! I'm Qucklify, here to help you with any questions you may have. Typhoid is a bacterial infection caused by Salmonella Typhi. It's usually spread through contaminated food or water, and can cause a range of symptoms including fever, headache, abdominal pain, and diarrhea. In severe cases, it can lead to complications such as typhoid fever, which can be life-threatening if left untreated. Is there anything else you would like to know about typhoid?",2024-12-24 14:27:15.898019
+summarize the pdf provided,.gradio\flagged\Upload a PDF\28f1823cd4e9ab76f813\Interview shortlists_UPES.pdf,"Text Summary:
+Certainly! I can help you summarize the content of the PDF document you provided. The summary is as follows:
+
+The document contains a list of candidate information, including their names, emails, mobile numbers, and gender preferences. There are 14 candidates in total, each with a unique identifier (Candidate Id) and personal information.
+
+Here's a brief overview of each candidate:
+
+1. Pranit Abraham Thomas - Male, Priority 1
+2. Jaanhvi Saxena - Female, Priority 1
+3. Vibhav Vibhav - Male, Priority 1
+4. Debanjana Pal - Female, Priority 1
+5. Vyom Singhal - Male, Priority 1
+6. Angelica Rai - Female, Priority 1
+7. Vedant Gupta - Male, Priority 1
+8. Kashish Deol - Female, Priority 1
+9. Devansh - Male, Priority 1
+10. Shraddha Sharma - Female, Priority 1
+11. Ishika Sharma - Female, Priority 1
+12. Hitika Jain - Female, Priority 1
+13. Vaibhav Verma - Male, Priority 1
+14. Yashwant Yadav - Male, Priority 1
+
+In addition to the candidate information, the document also includes the priority level (P) for each candidate, which is either P1 or P2.",2024-12-24 14:31:43.264426
+what is malaria,,"Hello there! I'm Quciklify, here to help you with any questions you may have. Malaria is a serious disease caused by a parasite that is transmitted through the bite of an infected mosquito. The parasite enters the body through the bite and begins to multiply in the liver before migrating to the red blood cells, where it causes damage and can lead to severe symptoms such as fever, chills, headache, and muscle and joint pain. Malaria can be life-threatening if left untreated, especially in young children, pregnant women, and people with weakened immune systems. There are several ways to prevent malaria, including using insecticide-treated bed nets, wearing protective clothing, and using anti-malarial medications.
+
+Would you like me to summarize a PDF document for you? Please provide the PDF file or link.",2024-12-24 14:38:12.611411
+summarize the pdf provided,.gradio\flagged\Upload a PDF\267ed79e408509f4765f\Interview shortlists_UPES.pdf,"Text Summary:
+Of course! I'd be happy to help you summarize the content of the PDF you provided. Here is a brief summary of the information contained within:
+
+The document contains a list of candidate IDs, names, primary emails, mobile numbers, and genders. The candidates are prioritized based on their priority level (P1 or P2). The list includes 15 candidates with their respective details.
+
+Here is the summary in a more concise format:
+Candidates: 15
+Candidate IDs: 14322721, 14322733, 14322749, 14322763, 14322817, 14322825, 14322837, 14322861, 14322873, 14322883, 14322927, 14322931, 14322953, 14322983
+Candidate Names: Pranit Abraham Thomas, Jaanhvi Saxena, Vibhav Vibhav, Debanjana Pal, Vyom Singhal, Angelica Rai, Vedant Gupta, Devansh, Shraddha Sharma, Ishika Sharma, Hitika Jain, Vaibhav Verma, Yashwant Yadav, Jaskaran Singh, Diksha Nain
+Primary Emails: pranitthomas@gmail.com, saxenajaanhvii@gmail.com, vibhav354@gmail.com, indradeb.pal@gmail.com, vilsium28@gmail.com, angelicarai611@gmail.com, guptavedant12345@gmail.com, kashishdeol2008@gmail.com, devanshtelanga.deeshu@gmail.com, hitikajain22@gmail.com, vv200325803@gmail.com, atishayj225@gmail.com, trilokchau@gmail.com, jaskaranyt123@gmail.com
+Mobile Numbers: 9715065351, 9335901868, 9162182433, 8178195300, 9518167802, 9650504351, 9680053791, 7048901939, 6306186130, 7505250182, 7568689861
+Genders: Male (15), Female (0)
+Priority Levels: P1 (14), P2 (1)",2024-12-24 14:42:50.733795
+summarize the pdf provided,.gradio\flagged\Upload a PDF\46eb757853f4b12bcb6e\Adobe Scan 4 Aug 2023 1.pdf,"Text Summary:
+Hi there! I'm Quciklify, Ujjwal's assistant created by him. I'm here to help you with any questions or tasks you may have. So go ahead and ask me anything! 😊
+
+Regarding the PDF content you provided, here is a summary of what it says:
+
+Mr. Ujjwal Kaushik completed an internship with the Edliv Samanta Foundation in Dehradun, Uttarakhand from June to July 2023. During his internship, he worked on various tasks including:
+
+1. Reading and comprehending the National Youth Policy 2014 and the New Education Policy 2020 and sharing an analysis.
+2. Translating and adapting projects involving pedagogical innovations for primary and middle grade students as well as creating a Teachers Toolkit.
+3. Conducting online computer sessions for the youth fellows working in schools.
+4. Visiting schools to conduct baseline surveys and understand the tribal, rural, forest-dwelling context in contemporary times.
+5. Creating Computer with MCQ learning and assessment tests using Google Forms.
+
+The internship report also includes a personal recommendation from the foundation, stating that Ujjwal is a wonderful human being who is eager to participate and learn from new opportunities. He is a team player who is willing to learn and share knowledge across the team, and he has shown an inclination to take up challenges by learning a new skill to accomplish tasks. The report ends with the foundation's contact information and a recommendation for future endeavors. 
+
+I hope this helps! Let me know if you have any further questions or if there is anything else I can help you with. 😊",2024-12-24 14:56:43.932438
+summarize the pdf provided,.gradio\flagged\Upload a PDF\1600107a6546d1fc1575\Interview shortlists_UPES.pdf,"Text Summary:
+Sure, I'd be happy to help! The information provided in the content you provided is as follows:
+
+Candidate ID | Candidate Name | Primary Email | Mobile Number | Gender | Priority
+
+14322721 | Pranit Abraham Thomas | pranitthomas@gmail.com | 9715065351 | Male | P1
+14322733 | Jaanhvi Saxena | saxenajaanhvii@gmail.com | 9335901868 | Female | P1
+14322749 | Vibhav Vibhav | vibhav354@gmail.com | 9162182433 | Male | P1
+14322763 | Debanjana Pal | indradeb.pal@gmail.com | 9810839821 | Female | P1
+14322817 | Vyom Singhal | vilsium28@gmail.com | 9871106048 | Male | P1
+14322825 | Angelica Rai | angelicarai611@gmail.com | 9997686895 | Female | P1
+14322837 | Vedant Gupta | guptavedant12345@gmail.com | 9650257584 | Male | P1
+14322861 | Kashish Deol | kashishdeol2008@gmail.com | 8178195300 | Female | P1
+14322873 | Devansh | devanshtelanga.deeshu@gmail.com | 9518167802 | Male | P1
+14322883 | Shraddha Sharma | shradulsha@gmail.com | 9318501700 | Female | P1
+14322891 | Hitika Jain | hitika.jain22@gmail.com | 9261084267 | Female | P1
+14322927 | Ishika Sharma | ishikasharma.tis@gmail.com | 9650504351 | Female | P1
+14322931 | Yashwant Yadav | yadavyeshwant6166@gmail.com | 6306186130 | Male | P1
+14322943 | Vaibhav Verma | vv200325803@gmail.com | 7048901939 | Male | P1
+14322953 | Atishay Jain | atishayj225@gmail.com | 7906023112 | Male | P1
+14322961 | Ayush Chaurasiya | trilokchau@gmail.com | 9680053791 | Male | P1
+14322983 | Yashwant Yadav | yadavyeshwant6166@gmail.com | 6306186130 | Male | P1
+14322997 | Jaskaran Singh | jaskaranyt123@gmail.com | 7505250182 | Male | P1
+14323019 | Diksha Nain | dikshanain333@gmail.com | 9729885310 | Female | P1
+14323055 | Md Arslan | mdarslan7@gmail.com | 7007338698 | Male | P1
+14323057 | Raghav Singhal | raghavsinghal96.2@gmail.com | 7568689861 | Male | P1
+14323070 | Mohit Goyal | mohitgoyal313@gmail.com | 9463859553 | Male | P1
+
+I hope this helps! Let me know if you have any questions or if there's anything else I can help with.",2024-12-26 19:59:55.680572
+tell me about ongc,,"Certainly! ONGC (Oil and Natural Gas Corporation Limited) is an Indian multinational oil and gas company headquartered in Dehradun, Uttarakhand. It was founded in 1956 and is one of the largest oil and gas producers in India.
+
+Here are some key points about ONGC:
+
+1. History: ONGC was established in 1956 as a joint venture between the Government of India and the Canadian company, Lakehead Ventures Limited. It was initially responsible for exploring and producing natural gas in India.
+2. Operations: ONGC operates in various segments of the oil and gas industry, including exploration, production, transportation, and marketing of crude oil and natural gas. It has a presence in over 10 countries across the world, including India, Saudi Arabia, Iran, and the United States.
+3. Assets: ONGC owns and operates several assets in the oil and gas industry, including oil and gas fields, pipelines, and refineries. It has a total of 25 operating fields, with a production capacity of over 80 million metric tons per annum (mmta).
+4. Revenue: ONGC is one of the largest revenue-generating companies in India, with a consolidated revenue of over INR 1.3 lakh crore (USD 20 billion) in 2020-21.
+5. Financials: ONGC's financials are strong, with a net profit of over INR 24,000 crore (USD 3.5 billion) in 2020-21. The company has a low debt-to-equity ratio and a high return on equity (ROE), indicating its financial health.
+6. Dividend: ONGC has a history of paying consistent dividends to its shareholders, with a dividend yield of around 4% in 2021.
+7. Governance: ONGC is led by a board of directors and has a strong governance structure in place. The company has been recognized for its efforts in corporate social responsibility (CSR) initiatives and environmental sustainability.
+8. Awards and Recognition: ONGC has received several awards and recognition for its performance, including the ""Best Company to Work For"" award by the Economic Times in 2019.
+
+Overall, ONGC is a well-established and reputed company in the oil and gas industry, with a strong track record of financial performance and governance.
+
+Would you like me to summarize any other PDFs for you?",2024-12-26 20:02:44.988113
+frame key points after summarizing the provided pdf,.gradio\flagged\Upload a PDF\420a05fa39e6f494a096\Adobe Scan 4 Aug 2023 1.pdf,"Text Summary:
+Hello! I'm Quciklify, Ujjwal's assistant. I'm here to help you with any questions or tasks you may have. And also, summarize the given content for you:
+
+The certificate specifies that Mr. Ujjwal Kaushik completed an internship at Edliv Samanta Foundation in Dehradun, Uttarakhand from June 23 to July 23. During his remote internship, he worked on several projects:
+
+1. Read and comprehended the National Youth Policy 2014 and New Education Policy 2020 and shared an analysis.
+2. Translated and adapted pedagogical innovations for primary and middle-grade students as well as Teachers Toolkit.
+3. Conducted online computer sessions for youth fellows working in schools.
+4. Visited schools to conduct baseline surveys and understand the tribal, rural, forest-dwelling context in contemporary times.
+5. Created computer learning and assessment tests using Google Forms. 
+
+The certificate also provides remarks about Ujjwal's character, noting that he is a ""wonderful human being"" who is eager to participate in new opportunities, willing to learn and share knowledge across the team, and enthusiastic about taking on challenges. The certificate includes the internship's address, contact information, and email address. 
+
+Please let me know if you need anything else!",2024-12-26 20:12:12.644584
+summarize the pdf provided,.gradio\flagged\Upload a PDF\e862bc8b83073049f998\Interview shortlists_UPES.pdf,"Text Summary:
+Sure, I can help you with that! Here's a summary of the content you provided:
+
+The document contains information about 15 candidates, including their names, email addresses, mobile numbers, genders, and priorities. The candidates are listed in alphabetical order by name.
+
+Here's a breakdown of the information for each candidate:
+
+1. Pranit Abraham Thomas - Male, Priority P1
+2. Jaanhvi Saxena - Female, Priority P1
+3. Vibhav Vibhav - Male, Priority P1
+4. Debanjana Pal - Female, Priority P1
+5. Vyom Singhal - Male, Priority P1
+6. Angelica Rai - Female, Priority P1
+7. Vedant Gupta - Male, Priority P1
+8. Kashish Deol - Female, Priority P1
+9. Devansh - Male, Priority P1
+10. Shraddha Sharma - Female, Priority P1
+11. Ishika Sharma - Female, Priority P1
+12. Hitika Jain - Female, Priority P1
+13. Vaibhav Verma - Male, Priority P1
+14. Atishay Jain - Male, Priority P1
+15. Ayush Chaurasiya - Male, Priority P1
+
+Overall, the document appears to be a list of candidates for some purpose, likely related to hiring or recruitment.",2024-12-26 20:19:25.172931
